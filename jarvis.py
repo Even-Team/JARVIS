@@ -8,7 +8,7 @@ import asyncio
 
 # ====== НАСТРОЙКИ ====== #
 GIGACHAT_TOKEN = "MzI2Nzg1MjAtNjBmZC00NTJjLWE4YWMtZDk0M2QyNTU2ZTMzOmMzOTQwZTYyLWE4NTAtNGFhMS04MzY0LTJkNDY3OTg4MGFhYg=="  # Получить: https://developers.sber.ru/portal/products/gigachat
-TELEGRAM_TOKEN = "7967328415:AAHOjXfv8Oa8ChCTRTuJJ-gBUASpV5EfZHA"  # Создать: @BotFather
+TELEGRAM_TOKEN = ""  # Создать: @BotFather
 
 # ====== ХАРАКТЕР JARVIS ====== #
 JARVIS_PERSONALITY = """
